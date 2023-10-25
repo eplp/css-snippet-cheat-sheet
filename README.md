@@ -1,6 +1,6 @@
-# Module 02 Mini-Project: CSS Snippet Cheat Sheet
+# Mini-Project: CSS Snippet Cheat Sheet
 
-In this activity, you will work with a group to build a webpage that will hold a collection of CSS snippets. What better way to learn CSS than to build a knowledge base of CSS?
+Build a webpage that will hold a collection of CSS snippets. What better way to learn CSS than to build a knowledge base of CSS?
 
 ## Instructions
 
@@ -30,7 +30,7 @@ The completed application should meet the following criteria:
 
 * Must incorporate a bit of animation using the [CSS transition property](https://developer.mozilla.org/en-US/docs/Web/CSS/transition).
 
-* You and your group can decide which CSS styles and colors you will use to design the application, but the app needs to be a responsive. Use the following images to gain an understanding of how the app should look at different screen sizes, from a layout perspective:
+* I can choose which CSS styles and colors will use to design the application, but the app needs to be a responsive. The following images provide an understanding of how the app should look at different screen sizes, from a layout perspective:
 
   * At size 992px and above, the app should resemble the following image:
 
@@ -46,11 +46,4 @@ The completed application should meet the following criteria:
 
 ## 💡 Hints
 
-* The HTML `<pre>` element is very literal about spaces and indentation. To gain a better understanding of how to work with it, check out this article on [considerations for styling the pre tag](https://css-tricks.com/considerations-styling-pre-tag/).
-
-## 🏆 Bonus
-
-* Set this project up in your own GitHub repositories so that you can deploy and use it for future reference!
-
----
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+* The HTML `<pre>` element is very literal about spaces and indentation. To gain a better understanding of how to work with it, I will use this article on [considerations for styling the pre tag](https://css-tricks.com/considerations-styling-pre-tag/).
